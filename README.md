@@ -11,3 +11,5 @@ Our project is based on the problem of user difficulty in differentiating the pr
 ![WhatsApp Image 2024-12-26 at 17 12 04_28e6382e](https://github.com/user-attachments/assets/c6782d2b-f71b-448a-93ca-54f39cc3b6f4)
 
 # link video : https://youtu.be/r8FSxq8PffA
+
+https://github.com/user-attachments/assets/393a0cb2-3492-4580-aabd-26ab827876a4
